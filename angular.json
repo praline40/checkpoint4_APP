@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "meetZick"
+    }
+  },
+  "defaultProject": "meetZick",
+  "cli": {
+    "analytics": false
+  }
 }
